@@ -1,5 +1,5 @@
 ## Introduction
-An vim plug to indent and format ```Matlab``` code.
+A vim plug to indent and format ```Matlab``` code.
 
 This vim-plug is migrated from  [affenwiesel/matlab-formatter-vscode](https://github.com/affenwiesel/matlab-formatter-vscode)
 
