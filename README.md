@@ -13,7 +13,7 @@ For vim-plug user:
 
 ``` vim
 " Loaded when m file is opened
-Plug 'HaoHao-Ting/vim-matlab-formatter', {'for': 'm'}
+Plug 'HaoHao-Ting/vim-matlab-formatter'
 ```
 
 ## Add key bindings
